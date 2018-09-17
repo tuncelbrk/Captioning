@@ -8,7 +8,7 @@ In this project, contains an implementation of image captioning based on neural 
 
 Network Topology
 
-  -Encoder
+  - Encoder
   The CNN can be thought of as an encoder. The input image is given to CNN to extract
 the features. The last hidden state of the CNN is connected to the Decoder.
 
